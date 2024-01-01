@@ -4,7 +4,9 @@ class Calculator
 public:
     int calculateSum(int a, int b);
 
-public:
     int calculateSub(int a, int b);
 
+    int calculatemul(int a, int b);
+
+    int calculatediv(int a, int b);
 };

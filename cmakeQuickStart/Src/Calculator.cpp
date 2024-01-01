@@ -7,4 +7,13 @@
         return a - b;
     }
 
+   int Calculator::calculatemul(int a, int b) {
+        return a * b;
+    }
+
+   int Calculator::calculatediv(int a, int b) {
+        return a / b;
+    }
+
+
 
