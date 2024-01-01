@@ -1,3 +1,0 @@
-/tmp/project1/CMake/cmakeQuickStart/CMakeFiles/main.dir
-/tmp/project1/CMake/cmakeQuickStart/CMakeFiles/edit_cache.dir
-/tmp/project1/CMake/cmakeQuickStart/CMakeFiles/rebuild_cache.dir
