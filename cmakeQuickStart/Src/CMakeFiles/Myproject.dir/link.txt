@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/Myproject.dir/main.cpp.o -o Myproject  Src/libclaculatorLib.a 

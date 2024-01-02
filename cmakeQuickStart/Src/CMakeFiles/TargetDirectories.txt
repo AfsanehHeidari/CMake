@@ -1,6 +1,0 @@
-/tmp/project1/CMake/cmakeQuickStart/Src/CMakeFiles/Myproject.dir
-/tmp/project1/CMake/cmakeQuickStart/Src/CMakeFiles/edit_cache.dir
-/tmp/project1/CMake/cmakeQuickStart/Src/CMakeFiles/rebuild_cache.dir
-/tmp/project1/CMake/cmakeQuickStart/Src/Src/CMakeFiles/claculatorLib.dir
-/tmp/project1/CMake/cmakeQuickStart/Src/Src/CMakeFiles/edit_cache.dir
-/tmp/project1/CMake/cmakeQuickStart/Src/Src/CMakeFiles/rebuild_cache.dir
