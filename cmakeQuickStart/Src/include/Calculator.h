@@ -1,12 +1,12 @@
-
+template <class T>
 class Calculator
 {
 public:
-    int calculateSum(int a, int b);
+    T calculateSum(T a, T b);
 
-    int calculateSub(int a, int b);
+    T calculateSub(T a, T b);
 
-    int calculatemul(int a, int b);
+    T calculatemul(T a, T b);
 
-    int calculatediv(int a, int b);
+    T calculatediv(T a, T b);
 };
