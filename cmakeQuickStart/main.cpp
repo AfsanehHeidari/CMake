@@ -19,6 +19,10 @@ int main(int, char**){
     Calculator<int> c4;  // Create an instance of the div class
     int result3 =c4.calculatediv(8, 4);  // Call the calculatediv method on th>
     std::cout << "division: " << result3 << std::endl;
-
+    
+    Calculator<int> a1;
+    Calculator<int> a2;
+    a2=a1;
+    std::cout<< a2 <<std::endl;
     return 0;
 }
