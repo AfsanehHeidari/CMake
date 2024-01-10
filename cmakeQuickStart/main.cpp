@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Calculator.h"
+#include "complex.h"
 int main(int, char**){
     std::cout << "Hello, from CMakeLists!\n";
 
@@ -24,5 +25,9 @@ int main(int, char**){
     Calculator<int> a2;
     a2=a1;
     std::cout<< a2 <<std::endl;
+
+    complex<float> a3(2.6 , 3.0);
+    complex<float> a4(1.4 , 2.0);
+    std ::cout << a3.complexSum(a4)<< std::endl;
     return 0;
 }

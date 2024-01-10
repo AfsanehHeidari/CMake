@@ -8,7 +8,7 @@ public:
 
     // Overload << operator for output
     friend std::ostream& operator<<(std::ostream& os, Calculator& obj) {
-        os << "MyClass data: "; //<< obj.data;
+        os << "MyClass data: ";
         return os;
     }
 
